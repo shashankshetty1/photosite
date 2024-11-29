@@ -22,8 +22,6 @@ Project Structure
 ├── index.html        # Main HTML file
 ├── styles.css        # External CSS file
 └── assets/           # Folder for images and other assets
-Preview
-Screenshot of the web page or link to live demo (if available).
 
 Future Enhancements
 Add JavaScript for interactivity.
